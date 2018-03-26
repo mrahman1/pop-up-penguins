@@ -1,0 +1,25 @@
+body {
+    background-color: #ccf5f5;
+}
+
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    width: 600px;
+    height: 150px;
+    background-image:  url("./assets/penguin_title.png")
+}
+
+.mound1{
+    background-image: url("./assets/mound_1.png")
+}
+
+.penguin{
+  width: 200px;
+  height: 200px;
+  float: left;
+}
